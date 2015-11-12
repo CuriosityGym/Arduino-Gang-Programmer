@@ -10,3 +10,12 @@ Please use a .hex file as an argument to the shell script, in addition to the pa
 This is a work in progress, and is expected to run on a Linux environment with Python and avrdude installed. 
 
 Windows environments are yet to be supported. 
+
+
+Requirements
+Python
+Pip
+
+run sudo pip install -r requirements.txt
+
+TODO
